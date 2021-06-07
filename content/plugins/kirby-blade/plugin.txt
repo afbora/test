@@ -1,0 +1,1 @@
+Title: Blade Templates\n\n----\n\nRepository: afbora/kirby-blade\n\n----\n\nCategory: templating\n\n----\n\nDescription: Use Laravel Blade templates for your Kirby site
