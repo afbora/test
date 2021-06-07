@@ -1,0 +1,13 @@
+Title: Test Plugin
+
+----
+
+Repository: https://github.com/afbora/test
+
+----
+
+Category: test
+
+----
+
+Description: This pull request contains a bunch of enhancements and bug-fixes, happily shared with you
