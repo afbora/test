@@ -1,0 +1,13 @@
+Title: New Kirby Plugin
+
+----
+
+Repository: johndoe/new-kirby-plugin
+
+----
+
+Category: analytics
+
+----
+
+Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget sapien elementum, egestas nunc eu, tincidunt lorem. Fusce venenatis aliquet augue, at rutrum ipsum fringilla in.
