@@ -1,0 +1,13 @@
+Title: Blade Templates
+
+----
+
+Repository: https://github.com/afbora/kirby-blade
+
+----
+
+Category: templating
+
+----
+
+Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec laoreet orci. Duis lorem leo, vehicula nec urna in, vehicula elementum magna.
