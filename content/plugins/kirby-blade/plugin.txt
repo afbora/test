@@ -1,0 +1,13 @@
+Title: New Kirby Plugin
+
+----
+
+Repository: https://github.com/afbora/kirby-blade
+
+----
+
+Category: utilities
+
+----
+
+Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a nisl at arcu aliquam ullamcorper. Sed quis lacinia libero, sit amet imperdiet nisi. Nam arcu eros, venenatis sed tincidunt non, vulputate a turpis. In at sapien odio. Duis a orci nisi. Inte
